@@ -2,6 +2,6 @@
 ---------------------------------------------------------------------------------
 Giới Thiệu Thành Viên:
 <p>Nguyễn Thị Tường Nguyên (Leader) _ UEH</p>
-Thái Bảo Quỳnh Lam _ UEH
-Lê Thị Khánh Ngân _ HCMUTE
-Nguyễn Minh _ HCMUTE
+<p>Thái Bảo Quỳnh Lam _ UEH</p>
+<p>Lê Thị Khánh Ngân _ HCMUTE</p>
+<p>Nguyễn Minh _ HCMUTE</p>
