@@ -19,6 +19,45 @@ body{
     font-size: 40px;
     padding-top: 27px;
 }
+.vande{
+	width:  1320px;
+	margin: 0px  auto;
+	background: #FFF;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 10px;
+    padding-bottom: 10px;
+	display: flex;
+}
+.vande p{
+	font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px;
+	padding-left: 10px;
+}
+.giaodien{
+	width:  1320px;
+	margin: 0px  auto;
+	background: #FFF;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 10px;
+    padding-bottom: 10px;
+	display: flex;
+}
+h1{
+	font-family: 'Space Grotesk', sans-serif;
+    font-size: 25px;
+	padding-left: 30px;
+}
+.giaodien p{
+	font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px;
+	padding-left: 10px;
+	padding-top: 30px;
+}
+.giaodien .anhtrangchu{
+	width: 15%;
+	height: 15%;
+	margin-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
 .noidung{
     font-family: 'Space Grotesk', sans-serif;
     font-size: 20px;
